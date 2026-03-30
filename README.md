@@ -28,6 +28,12 @@ I build and maintain cloud infrastructure across AWS and Azure for multiple clie
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-004d40?style=for-the-badge&logo=grafana&logoColor=white)
 
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-%23527FFF.svg?style=for-the-badge&logo=amazon-rds&logoColor=white)
+
 ### 💻 Languages & scripting
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -42,3 +48,14 @@ I build and maintain cloud infrastructure across AWS and Azure for multiple clie
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-0a7bbb?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=windows11&logoColor=white)
+
+## 📈 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tilshansanoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Tilshan's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilshansanoj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tilshansanoj&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
