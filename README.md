@@ -52,8 +52,8 @@ I build and maintain cloud infrastructure across AWS and Azure for multiple clie
 ## 📈 GitHub stats
 
 <p align="center">
-  <img src="https:// github-readme-stats-xi-three-90.vercel.app/api?username=tilshansanoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Tilshan's GitHub stats" height="165" />
-  <img src="https:// github-readme-stats-xi-three-90.vercel.app/api/top-langs/?username=tilshansanoj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats-acmsoyp20-tilshan-sanoj.vercel.app/api?username=tilshansanoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Tilshan's GitHub stats" height="165" />
+  <img src="https://github-readme-stats-acmsoyp20-tilshan-sanoj.vercel.app/api/top-langs/?username=tilshansanoj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" height="165" />
 </p>
 
 <p align="center">
